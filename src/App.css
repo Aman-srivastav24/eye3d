@@ -3,7 +3,7 @@
   border-radius: 50%;
   width: 5px;
   height: 5px;
-  position: relative;
+  position: absolute;
   font-size: 10px;
   color: white;
   cursor: pointer;
